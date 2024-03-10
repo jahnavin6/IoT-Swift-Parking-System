@@ -7,7 +7,7 @@ Swift Parking System (SPS) is designed to alleviate parking challenges in public
 ## Objectives
 
 - Develop both hardware and software components to detect parking slot occupancy.
-- Utilize Arduino for programming and MIT App Inventor 2 for creating an Android application to interface with users.
+- Utilize Arduino for programming and MIT App Inventor 2 to create an Android application to interface with users.
 - Implement a smart parking system using IoT technologies, focusing on ease of use and efficiency.
 
 ## Technologies Used
@@ -20,7 +20,7 @@ Swift Parking System (SPS) is designed to alleviate parking challenges in public
 
 ## Features
 
-- **Real-time Parking Availability**: Users can check the availability of parking slots in real-time through the Android app.
+- **Real-time Parking Availability**: Users can check the availability of parking slots in real time through the Android app.
 - **Automated Parking Barriers**: Controlled entry and exit using servo motors based on parking slot occupancy.
 - **Environmentally Friendly**: Reduces unnecessary driving, cutting down on carbon emissions.
 - **User-friendly Application**: Easy-to-use mobile application for checking and booking parking slots.
@@ -55,7 +55,7 @@ For more information and updates, please visit our GitHub repository.
 
 ## License
 
-Copyright (c) [year] [Your Full Name or Organization]
+Copyright (c) 2024 Jahnavi Nuthalapati on behalf of Swift Parking System Project
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
